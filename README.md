@@ -24,5 +24,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/natebe4/Social-Links-Profile)
+- Live Site URL: (https://natebe4.github.io/Social-Links-Profile/)
