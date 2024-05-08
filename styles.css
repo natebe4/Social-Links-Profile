@@ -70,6 +70,7 @@ p {
 }
 
 p:hover {
+    cursor: pointer;
     background-color: hsl(75, 94%, 57%);
     color: black;
 }
